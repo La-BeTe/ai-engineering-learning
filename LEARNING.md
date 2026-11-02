@@ -39,5 +39,6 @@ Ship an AI product. Build goal: not sure yet; to be decided as the path unfolds.
 ## Progress log
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
+| 2026-11-02 | 01-math-foundations/01-linear-algebra-intuition | 3/3 | Strong on dot product, cosine, rotation, rank. LoRA only clicked after plain-language explanation (model = knobs, frozen weights + small patch). Slipped on a sign in a dot product (-0.09) and mixed up A·C vs B·C once. Code in practice/p01-l01/. |
 
 ## Review queue
